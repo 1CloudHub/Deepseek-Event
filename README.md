@@ -13,7 +13,7 @@ This guide provides instructions to deploy the **DeepSeek** model as a SageMaker
 
 ## AWS Region
 
-The demo is executed in the **ap-south-1 (Mumbai)** region. If deploying in a different region, ensure to update the region name accordingly in the script before execution.
+The demo is executed in the **us-west-2 (Oregon)** region. If deploying in a different region, ensure to update the region name accordingly in the script before execution.
 
 ## Model Access
 
